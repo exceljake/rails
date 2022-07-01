@@ -1,0 +1,2 @@
+Article.count
+Article.create(name: "Article Numero Uno", body: "This is the very first article")
